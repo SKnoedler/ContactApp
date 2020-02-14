@@ -6,9 +6,8 @@ The Web App is accessible via http://steffen-feedback-app1.herokuapp.com
 As soon as you submit your request, an email is sent to my personal email adress and my database gets updated!
 
 # Quick Start
-```
-Don't forget to add your DATABASE URI in app.py and your mail params in send_mail.py
-```
+Req.: Add your DATABASE URI in app.py and your mail params in send_mail.py
+
 
 ### Install dependencies
 ```
