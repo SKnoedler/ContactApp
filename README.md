@@ -8,11 +8,11 @@ As soon as you submit your request, an email is sent to my personal email adress
 # Quick Start
 Don't forget to add your DATABASE URI in app.py and your mail params in send_mail.py
 
-# Install dependencies
+### Install dependencies
 pipenv shell
 pipenv install
 
-# Serve on localhost:5000
+### Serve on localhost:5000
 python app.py
 
 
