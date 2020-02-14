@@ -5,9 +5,8 @@ The Web App is accessible via http://steffen-feedback-app1.herokuapp.com
 
 As soon as you submit your request, an email is sent to my personal email adress and my database gets updated!
 
-# Quick Start
-Req.: Add your DATABASE URI in app.py and your mail params in send_mail.py
-
+## Quick Start
+Requirement: Add your DATABASE URI in app.py and your mail params in send_mail.py
 
 ### Install dependencies
 ```
@@ -21,7 +20,7 @@ python app.py
 ```
 
 
-# Python Heroku Deployment
+## Python Heroku Deployment
 
 > Steps to create a postgres database and deply a Python app to Heroku
 
